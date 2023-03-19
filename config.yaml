@@ -7,7 +7,7 @@ plugins:
   - tag: cache
     type: cache
     args:
-      size: 1024
+      size: 10240
       lazy_cache_ttl: 86400
 
   # 转发至本地服务器 DNSPod aliyun
