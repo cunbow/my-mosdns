@@ -62,8 +62,8 @@ plugins:
       - exec: $cache
       - matches: has_resp
         exec: accept
-      - matches: qname &/etc/mosdns/direct-list.txt
-        exec: $forward_local
+      - matches: qname &/etc/mosdns/direct-list.txt &/etc/mosdns/apple-cn.txt &/etc/mosdns/force-cn.txt
+        exec: $forward_local 
       - matches: has_resp
         exec: accept
       - exec: $fallback
