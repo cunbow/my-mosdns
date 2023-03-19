@@ -7,19 +7,24 @@
 1.建立文件夹
 
 ```shell
-`mkdir mosdns`
-
-
+mkdir mosdns
 ```
 
 2.进入文件夹
 
-`cd mosdns`
+```shell
+cd mosdns
+```
 
 3.克隆项目
 
-`git clone https://github.com/cunbow/my-mosdns.git`
+```shell
+git clone https://github.com/cunbow/my-mosdns.git
+```
 
 4.启动
 
-`docker compose up -d`
+```shell
+docker compose up -d
+```
+
