@@ -9,4 +9,4 @@ services:
         ports:
           - "553:53/udp"
         volumes:
-          - /etc/mosdns/:/etc/mosdns/
+          - ./:/etc/mosdns/
