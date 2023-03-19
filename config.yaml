@@ -74,9 +74,3 @@ plugins:
     args:
       entry: main_sequence
       listen: 0.0.0.0:53
-
-  - tag: udp_server_v6
-    type: udp_server
-    args:
-      entry: main_sequence
-      listen: "[::0]:53"
