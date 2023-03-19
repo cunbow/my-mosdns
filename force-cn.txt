@@ -1,6 +1,6 @@
 full:d23qetje3coe1r.cloudfront.net
-domin:nscloud.tk
-domin:zazs.tk
+domain:nscloud.tk
+domain:zazs.tk
 full:doh.apad.pro
 full:a1.mzstatic.com
 full:a2.mzstatic.com
