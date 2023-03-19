@@ -1,2 +1,2 @@
 # my-mosdns
-自用mosdns配置
+自用mosdns-V5配置
