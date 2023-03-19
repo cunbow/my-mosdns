@@ -6,7 +6,11 @@
 
 1.建立文件夹
 
+```shell
 `mkdir mosdns`
+
+
+```
 
 2.进入文件夹
 
@@ -19,4 +23,3 @@
 4.启动
 
 `docker compose up -d`
-
