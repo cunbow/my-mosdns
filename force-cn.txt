@@ -1,6 +1,3 @@
-full:d23qetje3coe1r.cloudfront.net
-domain:nscloud.tk
-domain:zazs.tk
 full:doh.apad.pro
 full:a1.mzstatic.com
 full:a2.mzstatic.com
@@ -297,6 +294,9 @@ full:www.gstatic.com
 full:www.pxcc.com
 full:xn--9kr7l.com
 full:xn--flw351e.com
+full:d23qetje3coe1r.cloudfront.net
+domain:nscloud.tk
+domain:zazs.tk
 domain:biblibili.com
 domain:biliapi.com
 domain:biliapi.net
